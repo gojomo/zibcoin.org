@@ -41,7 +41,7 @@ Using 'zib' avoids overloading existing English words like 'cent' or 'bit', each
 
 The Zibcoin unit lends itself to a single-character abbreviation, 'Z', that is used in relation to very few terrestrial currencies. 
 
-There's also a currency-evocative Unicode character, *Ƶ*, the [Z with stroke](https://en.wikipedia.org/wiki/Z_with_stroke). This character is currently unused for any circulating terrestrial currency… but perhaps fittingly *has* been used in futuristic-fiction contexts. 
+There's also a currency-evocative Unicode character, **Ƶ**, the [Z with stroke](https://en.wikipedia.org/wiki/Z_with_stroke). This character is currently unused for any circulating terrestrial currency… but perhaps fittingly *has* been used in futuristic-fiction contexts. 
 
 The currency code `XZB` is available, and for the same reason of avoiding deep-decimal quotations, Zibcoin/`XZB` may be a better unit for standardizing currency exchange than the current emerging, informal Bitcoin code `XBT`. Still, siilar to the common use of 'BTC' to abbreviate Bitcoin, 'ZBC' is an effective casual abbreviation for Zibcoin.
 
