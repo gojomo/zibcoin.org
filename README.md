@@ -1,3 +1,6 @@
+---
+title: Ƶibcoin
+---
 zibcoin.org
 ===========
 
