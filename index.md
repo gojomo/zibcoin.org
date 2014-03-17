@@ -1,9 +1,7 @@
 ---
-title: Ƶibcoin
+title: Introducing Ƶibcoin
 layout: default
 ---
-
-# Introducing Ƶibcoin
 
 *Zibcoin* is an alternate denominational unit for Bitcoin.
 
