@@ -2,6 +2,6 @@
 title: Zibcoin
 ---
 
-= Hello
+# Hello
 
 World!
