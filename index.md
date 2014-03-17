@@ -1,5 +1,6 @@
 ---
 title: Ƶibcoin
+layout: default
 ---
 
 # Introducing Ƶibcoin
