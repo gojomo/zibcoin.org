@@ -3,13 +3,15 @@ title: Introducing Ƶibcoin
 layout: minimal
 ---
 
-# Introducing Zibcoin
+# Introducing Ƶibcoin
 
 *Zibcoin* is an alternate denominational unit for Bitcoin.
 
-A Zibcoin is one-millionth of a Bitcoin. (Using metric prefixes, a Zibcoin is synonymous with a "microbitcoin" or "µBTC". Or in the base units of Bitcoin, one Zibcoin is 100 Satoshis.)
+A Zibcoin is one-millionth of a Bitcoin. 
 
-That is:
+Zibcoin is synonymous with a "microbitcoin" ("µBTC" or sometimes "mics"/"mikes"). In the base 'Satoshi' units of Bitcoin, one Zibcoin is 100 Satoshis.
+
+For reference:
 
 <pre>
 <b>  1          bitcoin</b> = 1,000,000    zibcoin = 100,000,000 satoshi
@@ -17,15 +19,15 @@ That is:
   0.00000001 bitcoin =         0.01 zibcoin =           <b>1 satoshi</b>
 </pre>
 
-## Why Ƶibcoin?
+## Why Zibcoin?
 
-The Zibcoin unit makes common daily transactional costs - a meal, a ride, a bag of groceries – into whole countable numbers, now and for the foreseeable future. In Bitcoin, these values are awkwardly tiny fractional values, a deep-decimal realm unfamiliar to consumers. (And with success, the problem will only get worse.) 
+The Zibcoin unit makes common daily transactional amounts - the cost of a meal, a ride, a bag of groceries – into whole countable numbers, now and for the foreseeable future. In Bitcoin today, these values are awkwardly tiny fractional values, deep-decimals unfamiliar to consumers. (And with Bitcoin's continuing success, this problem will only get worse.) 
 
 Unlike alternative names for the same unit, Zibcoin avoids triggering a layperson's confusion over the *milli-*/*micro-* difference, or how the prefix µ (greek *mu*) should be used or said.
 
 Zibcoin remains usefully suggestive of 'Bitcoin', in form and sound, but is different enough to be easily distinguished on screen, in print, and by ear. 
 
-Zibcoin avoids adding extra nerdy syllables (as with 'micro' or 'mu'/'eu') to the expression of everyday economic values. 
+Zibcoin avoids adding extra techie syllables (as with 'micro' or 'mu'/'eu') to the expression of everyday economic values. 
 
 Truncated to 'zib', it even removes complexity for casual usage. 'Zib' works well as a noun…
 
@@ -35,13 +37,13 @@ Truncated to 'zib', it even removes complexity for casual usage. 'Zib' works wel
 
 > "when are you going to zib me 10,000 for that pizza Friday night?"
 
-Using 'zib' avoids overloading existing English words like 'cent' or 'bit', each of which is already rife with contrasting meanings in the money and digital contexts. This minimizes risks of confusion during explanations and transactions. Since 'zib' is without a current meaning in English, it can acquire a unique and powerful meaning through this coinage and followup organic use. 
+Using 'zib' avoids overloading existing English words like 'cent' or 'bit', each of which is already rife with contrasting meanings in the money and digital contexts. This minimizes risks of confusion during explanations and transactions. Since 'zib' has no current meaning in English, it can acquire a strong and unique meaning through this coinage and organic use. 
 
 The Zibcoin unit lends itself to a single-character abbreviation, 'Z', that is used in relation to very few terrestrial currencies. 
 
-There's also a currency-evocative Unicode character, *Ƶ*, the [Z with stroke](https://en.wikipedia.org/wiki/Z_with_stroke). It's currently unused for any circulating terrestrial currency… but perhaps fittingly has been used in futuristic-fiction contexts. 
+There's also a currency-evocative Unicode character, *Ƶ*, the [Z with stroke](https://en.wikipedia.org/wiki/Z_with_stroke). This character is currently unused for any circulating terrestrial currency… but perhaps fittingly *has* been used in futuristic-fiction contexts. 
 
-The currency code `XZB` appears available, if the community finds Zibcoin/`XZB` a better unit for facilitating currency exchange than the alternate emerging, informal code `XBT` for a full Bitcoin unit. (In this use, as with the others, Zibcoin units avoid deep-decimals.)
+The currency code `XZB` is available, and for the same reason of avoiding deep-decimal quotations, Zibcoin/`XZB` may be a better unit for standardizing currency exchange than the current emerging, informal Bitcoin code `XBT`. Still, siilar to the common use of 'BTC' to abbreviate Bitcoin, 'ZBC' is an effective casual abbreviation for Zibcoin.
 
 Placing several popular notations and abbreviations together: 
 
@@ -52,15 +54,16 @@ Placing several popular notations and abbreviations together:
 * [Ƶibcoin: Your New Favorite Altcoin](http://medium.com/TK)
 * [Frequently Asked Questions](/faq)
 * Twitter: [@zibcoin](https://twitter.com/zibcoin)
-* Discussion threads TK
+* Discussion threads BitcoinTalk/Reddit TK
 
 ## Want to Help? 
 
-* use zib values!
-* tell friends, implement zib in web pages and software
-* fork & send pull requests with improvements to this site. ideas:
-    * faqs
+* Quote Zib values, alongside or in preference to Bitcoin! Active demonstration is the best real-world test and teacher. 
+* If working on Bitcoin software or services, offer Zibcoin as an option or default denomination.
+* Improve this website via pull-requests to its [Github project](https://github.com/gojomo/zibcoin). Ideas:
+    * FAQs
     * exchange rate tools
     * directory of zibcoin-supporting sites/software
+    * pro/con comparisons to other solutions
 
 
