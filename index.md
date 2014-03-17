@@ -2,7 +2,7 @@
 title: Ƶibcoin
 ---
 
-# Introducing Ƶibcoin? 
+# Introducing Ƶibcoin
 
 *Zibcoin* is an alternate denominational unit for Bitcoin.
 
@@ -18,7 +18,7 @@ That is:
 
 # Why Ƶibcoin?
 
-The Zibcoin unit allows the expression of common daily transactional costs - a meal, a ride, a bag of groceries – as whole countable numbers, now and for the foreseeable future, rather than as increasingly tiny decimal.
+The Zibcoin unit makes common daily transactional costs - a meal, a ride, a bag of groceries – into whole countable numbers, now and for the foreseeable future. In Bitcoin, these values are awkwardly tiny fractional values, a deep-decimal realm unfamiliar to consumers. (And with success, the problem will only get worse.) 
 
 Unlike alternative names for the same unit, Zibcoin avoids triggering a layperson's confusion over the *milli-*/*micro-* difference, or how the prefix µ (greek *mu*) should be used or said.
 
@@ -40,12 +40,25 @@ The Zibcoin unit lends itself to a single-character abbreviation, 'Z', that is u
 
 There's also a currency-evocative Unicode character, *Ƶ*, the [Z with stroke](https://en.wikipedia.org/wiki/Z_with_stroke). It's currently unused for any circulating terrestrial currency… but perhaps fittingly has been used in futuristic-fiction contexts. 
 
-The currency code `XZB` appears available, if the community finds Zibcoin/XZB a better unit for facilitating currency exchange than the alternate emerging, informal code `XBT` for a full Bitcoin unit. (In this use, as with the others, Zibcoin units avoid deep-decimals.)
+The currency code `XZB` appears available, if the community finds Zibcoin/`XZB` a better unit for facilitating currency exchange than the alternate emerging, informal code `XBT` for a full Bitcoin unit. (In this use, as with the others, Zibcoin units avoid deep-decimals.)
 
-# Other Observations
-
-By definition: 
+Placing several popular notations and abbreviations together: 
 
       Ƶ1 = 1 ZBC = 1 µBTC = 0.000001 BTC = ฿0.000001
 
+# More Info
+
+* [Ƶibcoin: Your New Favorite Altcoin](http://medium.com/TK)
+* [Frequently Asked Questions](/faq)
+* Twitter: [@zibcoin](https://twitter.com/zibcoin)
+* Discussion threads TK
+
+# Want to Help? 
+
+* use zib values!
+* tell friends, implement zib in web pages and software
+* fork & send pull requests with improvements to this site. ideas:
+** faqs
+** exchange rate tools
+** directory of zibcoin-supporting sites/software
 
