@@ -1,7 +1,0 @@
----
-title: Zibcoin
----
-
-# Hello
-
-World!
