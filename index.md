@@ -6,7 +6,7 @@ title: Ƶibcoin
 
 *Zibcoin* is an alternate denominational unit for Bitcoin.
 
-One Zibcoin is one-millionth of a Bitcoin. (Using metric/SI prefixes, a Zibcoin is synonymous with a "microbitcoin" or "µBTC". In the base units of Bitcoin, one Zibcoin is 100 Satoshis.)
+A Zibcoin is one-millionth of a Bitcoin. (Using metric prefixes, a Zibcoin is synonymous with a "microbitcoin" or "µBTC". Or in the base units of Bitcoin, one Zibcoin is 100 Satoshis.)
 
 That is:
 
@@ -58,7 +58,8 @@ Placing several popular notations and abbreviations together:
 * use zib values!
 * tell friends, implement zib in web pages and software
 * fork & send pull requests with improvements to this site. ideas:
-** faqs
-** exchange rate tools
-** directory of zibcoin-supporting sites/software
+    * faqs
+    * exchange rate tools
+    * directory of zibcoin-supporting sites/software
+
 
