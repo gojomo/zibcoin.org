@@ -1,6 +1,6 @@
 ---
 title: Introducing Ƶibcoin
-layout: default
+layout: jumbotron
 ---
 
 *Zibcoin* is an alternate denominational unit for Bitcoin.
