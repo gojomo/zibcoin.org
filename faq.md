@@ -5,19 +5,19 @@ layout: minimal
 
 # Ƶibcoin Frequently-Asked Questions
 
-### Why not the "mic" (or "mike") as a casual way of referring to microbitcoins?
+### Why not "mics" (pronounced "mikes") as a casual way of referring to microbitcoins?
 
 Of prior proposals, that's the best – but still has problems. 
 
-It requires the secondary spelling ("mike") to clarify pronounciation. There will be a natural tendency to abbreviate it with an 'm' – which risks confusion with 'millis', a very different unit. Using the proper metric abbreviation, µ, just makes things seem more arcane.
+It requires the secondary spelling ("mike") to clarify pronounciation. There will be a natural tendency to abbreviate it with an 'm' – which risks confusion with 'millis', a very different unit. Using the proper metric abbreviation, µ ("mu"), then just makes things seem more arcane. Since it still references *micro-*, it still risks confusion with *milli-*, and still implies something that is tiny and perhaps invisible or ignorable. 
 
-It may invite the question, "Who's Mike? Is there a Michael Nakamoto, perhaps Satoshi's long-lost son, brother, or father?"
+It may invite the questions, "Who's Mike? Is there a Mike Nakamoto, perhaps Satoshi's long-lost son, brother, or father?"
 
-Comparatively in the same contexts, 'zib' or 'Z' can be unambiguous, and consistent across both formal software and casual conversation.
+Comparatively in the same contexts, 'zib' or 'Z' can be unambiguously communicated, and used consistently across both formal software and casual conversation.
 
-### What about the Bitcoin unit-abbreviation `XBT` gaining momentum as a currency-code?
+### What about the Bitcoin unit-abbreviation `XBT`, that's gaining momentum as a currency-code?
 
-Zibcoin may be a better unit for quoting currency exchange rates, by avoiding deep-decimal values, too.  If needed, the currency-code `XZB` appears to be available. 
+Zibcoin may be a better unit for quoting currency exchange rates, too, by avoiding deep-decimal values over certain expected quoting ranges. If needed, the currency-code `XZB` appears to be available.
 
 ----
 
