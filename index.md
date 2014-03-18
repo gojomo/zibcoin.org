@@ -39,7 +39,7 @@ Compared to existing English words like 'cent' or 'bit', 'zib' brings no conflic
 
 The Zibcoin unit lends itself to a single-character abbreviation, 'Z', that is used in relation to very few terrestrial currencies. 'ZBC' also works well as an abbreviation (much like 'BTC').
 
-There's already a currency-suggestive Unicode character, **Ƶ**, the [Z with stroke](https://en.wikipedia.org/wiki/Z_with_stroke). This character is unused for any circulating terrestrial currency (but fittingly *has* been used in futuristic-fiction). 
+There's already a currency-suggestive Unicode character, **Ƶ**, the [Z with stroke](https://en.wikipedia.org/wiki/Z_with_stroke). This character is unused for any circulating terrestrial currency – but fittingly *has* been used in futuristic-fiction. 
 
 Placing several popular notations and abbreviations together: 
 
