@@ -7,9 +7,9 @@ layout: minimal
 
 *Zibcoin* is an alternate denominational unit for Bitcoin.
 
-A Zibcoin is one-millionth of a Bitcoin. 
+**A Zibcoin is one-millionth of a Bitcoin.** 
 
-Zibcoin is synonymous with a "microbitcoin" ("µBTC" or sometimes "mics"/"mikes"). In the base 'Satoshi' units of Bitcoin, one Zibcoin is 100 Satoshis.
+Zibcoin is equivalent to a "microbitcoin" ("µBTC" or sometimes "mics"/"mikes"). In the base 'Satoshi' units of Bitcoin, one Zibcoin is 100 Satoshis.
 
 For reference:
 
@@ -21,27 +21,25 @@ For reference:
 
 ## Why Zibcoin?
 
-The Zibcoin unit makes common daily transactional amounts - the cost of a meal, a ride, a bag of groceries – into whole countable numbers, now and for the foreseeable future. In Bitcoin today, these values are already awkwardly tiny fractional values: long decimals unfamiliar to consumers. 
+**The Zibcoin unit makes common daily transactional amounts - the cost of a meal, a ride, a bag of groceries – into whole countable numbers, now and for the foreseeable future.** In Bitcoin today, these values are already awkwardly tiny fractional values: long decimals unfamiliar to consumers. 
 
-ZZibcoin avoids triggering a layperson's confusion over the *milli-*/*micro-* difference, or how the abbreviation prefix µ (greek *mu*) should be used or said.
+Zibcoin avoids triggering a layperson's confusion over the *milli-*/*micro-* difference, or how the abbreviation prefix µ (greek *mu*) should be used or said.
 
 Zibcoin remains suggestive of 'Bitcoin', in form and sound, but is different enough to be easily distinguished when read or heard. 
 
-Zibcoin avoids adding extra techie syllables (as with 'micro' or 'mu'/'eu') to the expression of everyday economic values. 
-
-Truncated to 'zib', it fits casual usage well as a noun…
+Truncated to 'zib', it invites casual usage as a noun…
 
 > "I'll bring you a pizza for 10,000 zibs" 
 
-…or even a verb…
+…or a verb…
 
 > "when are you going to zib me 10,000 for that pizza Friday night?"
 
-Compared to existing English words like 'cent' or 'bit', 'zib' brings no contrasting meanings in the money or digital contexts which could slow explanation or create confusion. Since 'zib' has no current meaning in English, it can acquire a strong and unique meaning through this coinage and organic use. 
+Compared to existing English words like 'cent' or 'bit', 'zib' brings no conflicting prior meanings in the money or digital contexts. It can acquire a distinctive meaning that is no more nor less than we now choose, through usage. 
 
-The Zibcoin unit lends itself to a single-character abbreviation, 'Z', that is used in relation to very few terrestrial currencies, but 'ZBC' (as with 'BTC') also works.
+The Zibcoin unit lends itself to a single-character abbreviation, 'Z', that is used in relation to very few terrestrial currencies. 'ZBC' also works well as an abbreviation (much like 'BTC').
 
-There's also a currency-suggestive Unicode character, **Ƶ**, the [Z with stroke](https://en.wikipedia.org/wiki/Z_with_stroke). This character is currently unused for any circulating terrestrial currency (but fittingly *has* been used in futuristic-fiction contexts). 
+There's already a currency-suggestive Unicode character, **Ƶ**, the [Z with stroke](https://en.wikipedia.org/wiki/Z_with_stroke). This character is unused for any circulating terrestrial currency (but fittingly *has* been used in futuristic-fiction). 
 
 Placing several popular notations and abbreviations together: 
 
