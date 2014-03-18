@@ -22,8 +22,14 @@
   </head>
   <body>
     <div class="container">
-    <div><a href='/'>{{ site.domain }}</a></div>
-    {{ content }}
+      <div><a href='/'>{{ site.domain }}</a></div>
+      {{ content }}
+      <hr>
+      <div>
+        <a style="display:block;float:left" href='/'>{{ site.domain }}</a>
+        <span style="display:block;float:right">
+          source/contribute at <a href='{{ site.project_url }}'>{{ site.project_display_name }}</a>
+      </div>
     </div>
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
