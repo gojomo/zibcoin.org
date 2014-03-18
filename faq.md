@@ -13,7 +13,7 @@ It requires the secondary spelling ("mike") to clarify pronounciation. There wil
 
 It may invite the questions, "Who's Mike? Is there a Mike Nakamoto, perhaps Satoshi's long-lost son, brother, or father?"
 
-Comparatively in the same contexts, 'zib' or 'Z' can be unambiguously communicated, and used consistently across both formal software and casual conversation.
+Comparatively, 'zib' or 'Z' can be unambiguously communicated, and used consistently across both formal software and casual conversation.
 
 ### What about the Bitcoin unit-abbreviation `XBT`, that's gaining momentum as a currency-code?
 
@@ -21,5 +21,5 @@ Zibcoin may be a better unit for quoting currency exchange rates, too, by avoidi
 
 ----
 
-(contribute more questions/answers via [zibcoin.org github project](https://github.com/gojomo/zibcoin))
+(contribute more questions/answers via [zibcoin.org github project](https://github.com/gojomo/zibcoin.org))
 
