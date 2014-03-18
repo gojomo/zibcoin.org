@@ -25,7 +25,7 @@ The Zibcoin unit makes common daily transactional amounts - the cost of a meal, 
 
 Unlike alternative names for the same unit, Zibcoin avoids triggering a layperson's confusion over the *milli-*/*micro-* difference, or how the prefix µ (greek *mu*) should be used or said.
 
-Zibcoin remains usefully suggestive of 'Bitcoin', in form and sound, but is different enough to be easily distinguished on screen, in print, and by ear. 
+Zibcoin remains usefully suggestive of 'Bitcoin', in form and sound, but is different enough to be easily distinguished when read or heard. 
 
 Zibcoin avoids adding extra techie syllables (as with 'micro' or 'mu'/'eu') to the expression of everyday economic values. 
 
@@ -39,11 +39,9 @@ Truncated to 'zib', it even removes complexity for casual usage. 'Zib' works wel
 
 Using 'zib' avoids overloading existing English words like 'cent' or 'bit', each of which is already rife with contrasting meanings in the money and digital contexts. This minimizes risks of confusion during explanations and transactions. Since 'zib' has no current meaning in English, it can acquire a strong and unique meaning through this coinage and organic use. 
 
-The Zibcoin unit lends itself to a single-character abbreviation, 'Z', that is used in relation to very few terrestrial currencies. 
+The Zibcoin unit lends itself to a single-character abbreviation, 'Z', that is used in relation to very few terrestrial currencies, but 'ZBC' (similer to 'BTC') also works well.
 
-There's also a currency-evocative Unicode character, **Ƶ**, the [Z with stroke](https://en.wikipedia.org/wiki/Z_with_stroke). This character is currently unused for any circulating terrestrial currency… but perhaps fittingly *has* been used in futuristic-fiction contexts. 
-
-The currency code `XZB` is available, and for the same reason of avoiding deep-decimal quotations, Zibcoin/`XZB` may be a better unit for standardizing currency exchange than the current emerging, informal Bitcoin code `XBT`. Still, siilar to the common use of 'BTC' to abbreviate Bitcoin, 'ZBC' is an effective casual abbreviation for Zibcoin.
+There's also a currency-evocative Unicode character, **Ƶ**, the [Z with stroke](https://en.wikipedia.org/wiki/Z_with_stroke). This character is currently unused for any circulating terrestrial currency, but fittingly *has* been used in futuristic-fiction contexts. 
 
 Placing several popular notations and abbreviations together: 
 
@@ -51,15 +49,14 @@ Placing several popular notations and abbreviations together:
 
 ## More Info
 
-* [Ƶibcoin: Your New Favorite Altcoin](http://medium.com/TK)
 * [Frequently Asked Questions](/faq)
+* Zibcoin was introduced in [Ƶibcoin: Your New Favorite Altcoin](http://medium.com/TK)
 * Twitter: [@zibcoin](https://twitter.com/zibcoin)
-* Discussion threads BitcoinTalk/Reddit TK
 
 ## Want to Help? 
 
 * Quote Zib values, alongside or in preference to Bitcoin! Active demonstration is the best real-world test and teacher. 
-* If working on Bitcoin software or services, offer Zibcoin as an option or default denomination.
+* Offer Zibcoin as an option or default denomination in software and services.
 * Improve this website via pull-requests to its [Github project](https://github.com/gojomo/zibcoin). Ideas:
     * FAQs
     * exchange rate tools
