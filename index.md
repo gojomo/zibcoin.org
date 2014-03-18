@@ -48,7 +48,7 @@ Placing several popular notations and abbreviations together:
 ## More Info
 
 * [Frequently Asked Questions](/faq)
-* Zibcoin was introduced in [Ƶibcoin: Your New Favorite Altcoin](http://medium.com/TK)
+* Zibcoin was introduced in [Ƶibcoin: Your New Favorite Altcoin](https://medium.com/p/681d3dea0093)
 * Twitter: [@zibcoin](https://twitter.com/zibcoin)
 
 ## Want to Help? 
