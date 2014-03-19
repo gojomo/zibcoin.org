@@ -35,7 +35,7 @@ Truncated to 'zib', it invites casual usage as a noun…
 
 > "when are you going to zib me 10,000 for that pizza Friday night?"
 
-Compared to existing English words like 'cent' or 'bit', 'zib' brings no conflicting prior meanings in the money or digital contexts. It can acquire a distinctive meaning that is no more nor less than we choose now, through usage. 
+Compared to existing English words like 'cent' or 'bit', '[zib](http://en.wikipedia.org/wiki/Zib)' brings no conflicting prior meanings in the money or digital contexts. It can acquire a distinctive meaning that is no more nor less than we choose now, through usage. 
 
 The Zibcoin unit lends itself to a single-character abbreviation, 'Z', that is used in relation to very few terrestrial currencies. 'ZBC' also works well as an abbreviation (much like 'BTC').
 
