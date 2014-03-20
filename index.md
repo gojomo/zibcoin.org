@@ -56,7 +56,7 @@ Placing several popular notations and abbreviations together:
 
 * Quote Zib values, alongside or in preference to Bitcoin! Active demonstration is the best real-world test and teacher. 
 * Offer Zibcoin as an option or default denomination in software and services.
-* Improve this website via pull-requests to its [Github project](https://github.com/gojomo/zibcoin). Ideas:
+* Improve this website via pull-requests to its [Github project](https://github.com/gojomo/zibcoin.org). Ideas:
     * FAQs
     * exchange rate tools
     * directory of zibcoin-supporting sites/software
