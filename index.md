@@ -56,11 +56,14 @@ Placing several popular notations and abbreviations together:
 
 * Spread the word via Facebook and Twitter
 
-<div class="fb-like" data-href="http://zibcoin.org" data-width="375" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+<div class="fb-like" data-href="http://zibcoin.org" data-width="375" data-layout="standard" data-action="like" data-show-faces="true" data-share="true">
+</div>
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="zibcoin" data-size="large" data-hashtags="bitcoin">Tweet</a>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="zibcoin" data-size="large" data-hashtags="bitcoin">Tweet
+</a>
 
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+</script>
 
 * Quote Zib values, alongside or in preference to Bitcoin! Active demonstration is the best real-world test and teacher. 
 * Offer Zibcoin as an option or default denomination in software and services.
