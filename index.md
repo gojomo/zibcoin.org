@@ -1,4 +1,4 @@
---
+---
 title: Ƶ is for 'zibcoin', a friendlier name for µBTC (microbitcoin)
 layout: minimal
 ---
