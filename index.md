@@ -45,6 +45,10 @@ Placing several popular notations and abbreviations together:
 
       Ƶ1 = 1 ZBC = 1 µBTC = 0.000001 BTC = ฿0.000001
 
+A medium-sized (320x360) "Z-with-slash" image:
+
+![zibcoin-z.png](/img/zibcoin-z.png "zibcoin-z.png")
+
 ## More Info
 
 * [Frequently Asked Questions](/faq)
@@ -68,6 +72,7 @@ Placing several popular notations and abbreviations together:
 * Quote Zib values, alongside or in preference to Bitcoin! Active demonstration is the best real-world test and teacher. 
 * Offer Zibcoin as an option or default denomination in software and services.
 * Improve this website via pull-requests to its [Github project](https://github.com/gojomo/zibcoin.org). Ideas:
+    * icons/images/buttons/badges
     * FAQs
     * exchange rate tools
     * directory of zibcoin-supporting sites/software
