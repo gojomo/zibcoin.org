@@ -56,7 +56,7 @@ Placing several popular notations and abbreviations together:
 
 * Spread the word via Facebook and Twitter
 
-<table border=1><tr><td width=50%>
+<table border="1"><tr><td width="50%">
 foo
 </td><td>
 bar
