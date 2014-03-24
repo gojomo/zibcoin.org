@@ -14,6 +14,7 @@
     <style>
     body { font-size: 24px;}
     .container { max-width: 750px;}
+    .initzib { padding: 2px 10px; border-radius:4px; background-color:#eee;}
     </style>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -32,11 +33,11 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
     <div class="container">
-      <div><span style="border:1px dotted #aaa">Ƶ</span> <a href='/'>{{ site.domain }}</a></div>
+      <div><span class="initzib">Ƶ</span> <a href='/'>{{ site.domain }}</a></div>
       {{ content }}
       <br>
       <div class="small" style="border-top:1px dotted #777">
-        <a href='/'>{{ site.domain }}</a><br>
+        span class="initzib">Ƶ</span><a href='/'>{{ site.domain }}</a><br>
         source <a href='{{ site.project_url }}'>{{ site.project_display_name }}</a>
       </div>
     </div>
