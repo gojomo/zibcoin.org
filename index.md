@@ -1,5 +1,5 @@
 ---
-title: Ƶ is for 'zibcoin', a friendlier name for µBTC (microbitcoin)
+title: Ƶ is for 'zib' ('zibcoin'), a friendlier name for µBTC (microbitcoin)
 layout: minimal
 ---
 
@@ -11,7 +11,7 @@ layout: minimal
 
 Zibcoin is equivalent to a "microbitcoin" ("µBTC" or sometimes "mics"/"mikes"). In the base 'satoshi' units of Bitcoin, one zibcoin is 100 satoshis.
 
-Zibcoin can be abbreviated 'zib' in many contexts.
+Zibcoin can be abbreviated 'zib' in most contexts.
 
 For reference:
 
