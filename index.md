@@ -50,16 +50,20 @@ Placing several popular notations and abbreviations together:
 * [Frequently Asked Questions](/faq)
 * Zibcoin was introduced in [Ƶibcoin: Your New Favorite Altcoin](https://medium.com/p/681d3dea0093)
 * Twitter: [@zibcoin](https://twitter.com/zibcoin)
-* Bitcointalk thread: [[ANN] [ZBC] Zibcoin: Bitcoin for everyone. Redeem your zibcoins now!](https://bitcointalk.org/index.php?topic=522958)
+* Bitcointalk thread: [Zibcoin: Bitcoin for everyone. Redeem your zibcoins now!](https://bitcointalk.org/index.php?topic=522958)
 
 ## Want to Help? 
 
 * Spread the word via Facebook and Twitter
 
-<table border="1"><tr><td width="50%">
-foo
+<table width="100%"><tr><td width="50%">
+<div class="fb-like" data-href="http://zibcoin.org" data-width="375" data-layout="standard" data-action="like" data-show-faces="true" data-share="true">
+</div>
 </td><td>
-bar
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="zibcoin" data-size="large" data-hashtags="bitcoin">Tweet
+</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+</script>
 </td></tr></table>
 
 * Quote Zib values, alongside or in preference to Bitcoin! Active demonstration is the best real-world test and teacher. 
