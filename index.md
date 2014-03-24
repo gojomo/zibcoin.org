@@ -56,9 +56,8 @@ Placing several popular notations and abbreviations together:
 
 * Spread the word via Facebook and Twitter
 
-<table border=0><tr><td width=50%>
-<div class="fb-like" data-href="http://zibcoin.org" data-width="375" data-layout="standard" data-action="like" data-show-faces="true" data-share="true">
-</div>
+<table border=1><tr><td width=50%>
+
 </td><td>
 <a href="https://twitter.com/share" class="twitter-share-button" data-via="zibcoin" data-size="large" data-hashtags="bitcoin">Tweet
 </a>
