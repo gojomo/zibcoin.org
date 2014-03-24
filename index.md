@@ -57,9 +57,9 @@ Placing several popular notations and abbreviations together:
 * Spread the word via Facebook and Twitter
 
 <table border=1><tr><td width=50%>
-
+foo
 </td><td>
-
+bar
 </td></tr></table>
 
 * Quote Zib values, alongside or in preference to Bitcoin! Active demonstration is the best real-world test and teacher. 
