@@ -1,5 +1,5 @@
 ---
-title: 'Zib', the friendlier name for µBTC (microbitcoin)
+title: "'Zib': the friendlier name for µBTC (microbitcoin)"
 layout: minimal
 ---
 
