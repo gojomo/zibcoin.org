@@ -1,5 +1,5 @@
 ---
-title: 'Zib': the friendlier name for µBTC (microbitcoin)
+title: 'Zib', the friendlier name for µBTC (microbitcoin)
 layout: minimal
 ---
 
@@ -56,7 +56,9 @@ A medium-sized (320x360) "Z-with-slash" image:
 * [Frequently Asked Questions](/faq)
 * Zib was introduced in [Ƶibcoin: Your New Favorite Altcoin](https://medium.com/p/681d3dea0093)
 * Twitter: [@zibcoin](https://twitter.com/zibcoin)
-* Bitcointalk threads: [Zibcoin: Bitcoin for everyone. Redeem your zibcoins now!](https://bitcointalk.org/index.php?topic=522958)
+* Bitcointalk threads: 
+    * [zib / zibcoin / 'Ƶ' (Z-with-slash): friendlier terms for 'microbitcoin' (µBTC)](https://bitcointalk.org/index.php?topic=529301)
+    * [Zibcoin: Bitcoin for everyone. Redeem your zibcoins now!](https://bitcointalk.org/index.php?topic=522958)
 
 ## Want to Help? 
 
