@@ -16,8 +16,6 @@ denomination of Bitcoin itself.
 
 Also, [ZIB](https://en.wikipedia.org/wiki/Soviet_space_dogs#Bolik_and_ZIB) was the name given to a stray dog drafted by the Soviet space program in 1951 for a suborbital test flight. (Apparently ZIB made it back successfully.) Since many cryptocoin enthusiasts like the idea of dog mascots going to the moon, why not honor a common mutt that's been closer to the moon than any purebred?
 
-'Zibcoin' could also be considered a compression of "**zi**pped micro**b**it**coin**", that is, a shorter version of the word "microbitcoin".
-
 ### Why not 'bits' to mean 'microbitcoins'?
 
 People are already using the terms 'millibits' and 'microbits' (or 'eubits') as natural shortenings of 'millibitcoins' and 'microbitcoins', respectively. Using 'bit' to refer to the same thing as 'microbit' presents problems. (As just one example, the bitcoin-derived 1/1000th fraction some have already been calling a "millibit" and the new 'bit'-derived 1000X multiple "kilobit" would be... the exact same unit.)
