@@ -11,7 +11,7 @@ layout: minimal
 
 As it turns out, though, alternate derivations can be chosen retroactively. A recursive backronym is one possibility:
 
-"ZIB = ZIB Is Bitcoin" - emphasizing it's just another convenience 
+ZIB = *ZIB Is Bitcoin* - emphasizing that this is just another convenience 
 denomination of Bitcoin itself. 
 
 Also, [ZIB](https://en.wikipedia.org/wiki/Soviet_space_dogs#Bolik_and_ZIB) was the name given to a stray dog drafted by the Soviet space program in 1951 for a suborbital test flight. (Apparently ZIB made it back successfully.) Since many cryptocoin enthusiasts like the idea of dog mascots going to the moon, why not honor a common mutt that's been closer to the moon than any purebred?
